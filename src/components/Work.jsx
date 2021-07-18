@@ -17,7 +17,16 @@ const Work = () => {
                   <a href="https://notetakerlucas.herokuapp.com/">
                     Note Taker
                   </a>
-                </div>
+                              </div>
+                              <div>
+                              </div>
+  <hr class="divider" />
+  <div className="imagebox">
+    <img src="images/quiz.jpg" />
+    <div class="text-block">
+      <a href="https://ancient-citadel-84170.herokuapp.com/">The Tech Blog</a>
+          </div>
+                              </div>
               </div>
             </Fade>
           </div>
